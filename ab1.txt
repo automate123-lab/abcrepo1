@@ -1,3 +1,2 @@
 echo "bug fixed"
-echo "changes made in local repository"
-
+"changes made in remote repository"
