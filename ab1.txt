@@ -1,1 +1,3 @@
 echo "bug fixed"
+echo "changes made in local repository"
+
